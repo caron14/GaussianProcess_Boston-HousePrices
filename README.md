@@ -1,6 +1,6 @@
 # GaussianProcess_Boston-HousePrices
 Code of Gaussian-process regression for beginner. \
-Dataset is house prices in Boston from sikit-learn datasets.
+Dataset is house prices in Boston from scikit-learn datasets.
 
 # Method
 Gaussian-process regression.\
